@@ -1,0 +1,328 @@
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.0.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.1.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.2.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.blf
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TM.blf
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+'New folder'/
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+'WPS Cloud Files'/
+ eclipse/
+ eclipse-workspace/
+'git ex'/
+ gitex/
+ harry/
+ harry-1/
+ harsha/
+ harsha-1/
+ ntuser.dat
+ ntuser.dat.log1
+ ntuser.dat.log2
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TM.blf
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TMContainer00000000000000000001.regtrans-ms
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ test/
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ pwd
+/c/Users/Acer
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ mkdir test
+mkdir: cannot create directory ‘test’: File exists
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ mkdir test1
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ cd test1
+
+Acer@HARSHA-BONE MINGW64 ~/test1 (master)
+$ mkdir test2
+
+Acer@HARSHA-BONE MINGW64 ~/test1 (master)
+$ ls
+test2/
+
+Acer@HARSHA-BONE MINGW64 ~/test1 (master)
+$ rmdir test2
+
+Acer@HARSHA-BONE MINGW64 ~/test1 (master)
+$ ls
+
+Acer@HARSHA-BONE MINGW64 ~/test1 (master)
+$ cd ..
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.0.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.1.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.2.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.blf
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TM.blf
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+'New folder'/
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+'WPS Cloud Files'/
+ eclipse/
+ eclipse-workspace/
+'git ex'/
+ gitex/
+ harry/
+ harry-1/
+ harsha/
+ harsha-1/
+ ntuser.dat
+ ntuser.dat.log1
+ ntuser.dat.log2
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TM.blf
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TMContainer00000000000000000001.regtrans-ms
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ test/
+ test1/
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ mkdir commands
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.0.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.1.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.2.regtrans-ms
+ NTUSER.DAT{82eb7818-9c0c-11ee-8d52-a30339b86b99}.TxR.blf
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TM.blf
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{82eb7819-9c0c-11ee-8d52-a30339b86b99}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+'New folder'/
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+'WPS Cloud Files'/
+ commands/
+ eclipse/
+ eclipse-workspace/
+'git ex'/
+ gitex/
+ harry/
+ harry-1/
+ harsha/
+ harsha-1/
+ ntuser.dat
+ ntuser.dat.log1
+ ntuser.dat.log2
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TM.blf
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TMContainer00000000000000000001.regtrans-ms
+ ntuser.dat{d7e9ece6-d58f-11ef-8da6-c59afd157ff2}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ test/
+ test1/
+
+Acer@HARSHA-BONE MINGW64 ~ (master)
+$ cd commands
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ mkdir test2
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ ls
+test2/
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ uname
+MINGW64_NT-10.0-22631
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ locate test2
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ touch sample.txt
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ sample.txt test2/
+bash: sample.txt: command not found
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ sample.txt test2
+bash: sample.txt: command not found
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ sample.txt test2/
+bash: sample.txt: command not found
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ ps
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1551    1549    1551      84888  pty1      197609 16:09:34 /usr/bin/bash
+     1549       1    1549      83692  ?         197609 16:09:33 /usr/bin/mintty
+     1700    1551    1700      84600  pty1      197609 16:19:21 /usr/bin/ps
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ man cat
+bash: man: command not found
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ man id
+bash: man: command not found
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ sat sample.txt
+bash: sat: command not found
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt hello
+cat: hello: No such file or directory
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt
+h
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt
+hello
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt | grep "llo"hello
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt | grep "llo"hello
+wor
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt | grep "llo" hello world hell llo sampllo
+grep: hello: No such file or directory
+grep: world: No such file or directory
+grep: hell: No such file or directory
+grep: llo: No such file or directory
+grep: sampllo: No such file or directory
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ whoami
+Acer
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ cat sample.txt
+hello
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ hello
+bash: hello: command not found
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ df -h
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G  135G  104G  57% /
+D:                    345G   95G  251G  28% /d
+E:                    586G  6.0G  581G   2% /e
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ wc sample.txt 5 5 37 sample.txt
+0 0 0 sample.txt
+wc: 5: No such file or directory
+wc: 5: No such file or directory
+wc: 37: No such file or directory
+0 0 0 sample.txt
+0 0 0 total
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ touch sample.txt
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ touch sample2.txt
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ eco -e "new file is created " > sample2.txt
+bash: eco: command not found
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ echo -e " new file is created " > sample2.txt
+
+Acer@HARSHA-BONE MINGW64 ~/commands (master)
+$ wc -| sample.txt
+bash: sample.txt: command not found
+
+
