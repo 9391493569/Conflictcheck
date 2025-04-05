@@ -1,0 +1,83 @@
+frouts = ['apple','mango','banana']
+frouts.append('gova')
+frouts.insert(2,'graps')
+frouts.extend(['avacado','ornage'])
+print(frouts)
+def add(a,b):
+    return a + b
+result = add(1,2)
+print('result is ',result)
+----------------------------------------
+def solution(name = 'phani'):
+    print('iam ', name)
+solution()
+solution('kumar')
+---------------------------------
+def solution():
+    name = 'phani'
+    age = 24
+    return name,age
+n,a = solution()
+print('name is ',n,'and age is ',a)
+
+
+-----------------------------------
+
+
+
+give = 'hello'
+dup = give
+result = ''
+for i in range(len(give)-1,-1,-1):
+    result += give[i]
+if dup == result:
+    print('polindram')
+else:
+    print('not a polindram')
+
+
+------------------------------------
+factorial
+
+num = 4
+fac = 1
+for i in range(2,num+1):
+    fac *= i
+print(fac)
+
+----------------------------------------------
+
+fibinnoci serice
+
+a = 1
+b = 2
+n = int(input('enter num '))
+for _ in range(n):
+    print(a,end='')
+    a,b = b, a+b
+------------------------------------------
+prime num
+
+num = int(input("Enter a number: "))
+for i in range(2,int(num**0.5)+1):
+    if num % i == 0:
+        print('not a prime')
+        break
+    else:
+        print('prime')
+-----------------------------------------
+
+replacing @ for even
+
+for i in range(1,101):
+    if i % 2 == 0:
+        print('@',end = ' ')
+    else:
+        print(i,end=' ')
+----------------------------------
+squiring
+
+for i in range(1,101):
+    p = i**2
+    print(p,end = ' ')
+-----------------------------------
